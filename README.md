@@ -51,7 +51,8 @@ while Age was %20 and Emarked had less than %1 missing.
 
 3-Prepare Data:  
 Some filling was done to the Age and Ebarked columns (details in notebook).  
-Cabin and PassengerId were drop.  
+Cabin was drop because a great number of entries are NaN.  
+PassengerId was drop because it is just an id which does not hold value in predicting if someone will survive.  
 feature engeenring was done to the Name column.  
 finnaly dummies were made for remaining categorical columns.  
 
