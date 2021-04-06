@@ -8,7 +8,7 @@ The goal is to analyise the [titanic](https://www.kaggle.com/c/titanic/data) dat
 finally you can use the trained model to predict wethier you will survive or not.  
   
 # installation  
-you will need python and a lis of libraries:  
+you will need python and a list of libraries:  
 1- pandas  
 2- numpy  
 3- matplotlib  
