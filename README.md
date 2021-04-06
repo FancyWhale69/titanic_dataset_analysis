@@ -33,6 +33,7 @@ go ahead and explore the notebook.
 From my analysis i found that gender is the most important factor for survival in the titanic.  
 in all 3 factors i analyised (gender, ticket class, number of parent/child) i found that women had a higher survival rate than men in all 3 of them.  
 
+
 # acknowledgment  
 i would like to thank kaggle for providing a huge amount of data sets for free.  
 
