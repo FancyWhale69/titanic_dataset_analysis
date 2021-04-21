@@ -1,4 +1,5 @@
-# titanic_dataset_analysis
+# titanic_dataset_analysis  
+Check my [blog post](https://fancywhale69.medium.com/will-you-survive-the-titanic-b96ee8efe725) for the analysis.
   
 # installation  
 you will need python, jupiter notebook, and a list of libraries:  
