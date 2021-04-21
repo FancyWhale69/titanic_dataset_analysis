@@ -1,7 +1,7 @@
 # titanic_dataset_analysis  
 Check my [blog post](https://fancywhale69.medium.com/will-you-survive-the-titanic-b96ee8efe725) for the analysis.
   
-# installation  
+# Installation  
 you will need python, jupiter notebook, and a list of libraries:  
 1- pandas  
 2- numpy  
@@ -24,18 +24,18 @@ titanic folder contains:
 2- test.csv (test features)  
 3- gender_submission.csv (include the responce for test data)  
 
-# How to Interact with your project  
+# How To Interact With Your Project  
 download the repo to your local device or google colab.  
 install needed libraries.  
 make sure to run the first two cells (importing libraries and reeading data).  
 go ahead and explore the notebook.  
 
-# results Summery  
+# Results Summery  
 From my analysis i found that gender is the most important factor for survival in the titanic.  
 in all 3 factors i analyised (gender, ticket class, number of parent/child) i found that women had a higher survival rate than men in all 3 of them.  
 
 
-# acknowledgment  
+# Acknowledgment  
 i would like to thank kaggle for providing a huge amount of data sets for free.  
 
 # CRISP-DM  
